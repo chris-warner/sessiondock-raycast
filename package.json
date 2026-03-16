@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Raycast extension for SessionDock Local API",
   "icon": "command-icon.png",
-  "author": "Chris Warner",
+  "author": "chris-warner",
   "categories": ["Developer Tools", "Productivity"],
   "license": "MIT",
   "main": "src/search-sessions.tsx",
