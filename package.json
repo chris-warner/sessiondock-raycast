@@ -11,6 +11,7 @@
   "scripts": {
     "dev": "ray develop",
     "build": "ray build --environment dist --output .dist",
+    "publish": "ray publish",
     "lint": "ray lint",
     "fix-lint": "ray lint --fix"
   },
